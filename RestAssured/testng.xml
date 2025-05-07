@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Java_Appli_testing.Create_User"/>
+      <class name="Java_Appli_testing.login_user"/>
+      <class name="Java_Appli_testing.update_user"/>
+      <class name="Java_Appli_testing.fetch_updated_user"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

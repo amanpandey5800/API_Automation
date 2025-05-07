@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T14:11:43 IST" name="Suite" finished-at="2025-05-06T14:11:46 IST" duration-ms="2973">
+    <groups>
+    </groups>
+    <test started-at="2025-05-06T14:11:43 IST" name="Test" finished-at="2025-05-06T14:11:46 IST" duration-ms="2973">
+      <class name="Java_Appli_testing.fetch_updated_user">
+        <test-method signature="gettoken()[pri:0, instance:Java_Appli_testing.fetch_updated_user@21e360a]" started-at="2025-05-06T14:11:46 IST" name="gettoken" finished-at="2025-05-06T14:11:46 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettoken -->
+      </class> <!-- Java_Appli_testing.fetch_updated_user -->
+      <class name="Java_Appli_testing.login_user">
+        <test-method signature="loginuser()[pri:0, instance:Java_Appli_testing.login_user@2c35e847]" started-at="2025-05-06T14:11:45 IST" name="loginuser" finished-at="2025-05-06T14:11:46 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser -->
+      </class> <!-- Java_Appli_testing.login_user -->
+      <class name="Java_Appli_testing.Create_User">
+        <test-method signature="creat_user()[pri:0, instance:Java_Appli_testing.Create_User@618425b5]" started-at="2025-05-06T14:11:43 IST" name="creat_user" finished-at="2025-05-06T14:11:45 IST" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creat_user -->
+      </class> <!-- Java_Appli_testing.Create_User -->
+      <class name="Java_Appli_testing.update_user">
+        <test-method signature="loginuser()[pri:0, instance:Java_Appli_testing.update_user@7bd4937b]" started-at="2025-05-06T14:11:46 IST" name="loginuser" finished-at="2025-05-06T14:11:46 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser -->
+        <test-method signature="update()[pri:0, instance:Java_Appli_testing.update_user@7bd4937b]" started-at="2025-05-06T14:11:46 IST" name="update" finished-at="2025-05-06T14:11:46 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+      </class> <!-- Java_Appli_testing.update_user -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
